@@ -1,0 +1,15 @@
+.idea/
+*.log
+target/
+generated/
+tmp/
+*.swp
+**/assets/secrets/db.conf
+eval-*/
+.bsp/
+
+.metals/
+.bloop/
+.vscode/
+.DS_Store
+metals.sbt
